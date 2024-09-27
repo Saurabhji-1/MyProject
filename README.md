@@ -1,8 +1,8 @@
-Hi,
 
-The SurvivalDurationCalculator class calculates how long a person has lived based on their age, converting it into months, weeks, days, hours, minutes, or seconds.
-The class includes methods for each time unit and displays the duration when prompted. The main function handles user input for age and desired time unit, ensuring valid entries.
-The code has been corrected for constructor naming and formatting.
+The SurvivalDurationCalculator is a Python class designed to help People to know  how long a person  lived by converting their age into various time units: months, weeks, days, hours, minutes, and seconds. Here I have mention methods to calculate each unit based on the age inputted by the user. The Python program prompts the user for their age and unit .
 
-Thank you
---->
+Conclusion
+This Python Program provides a simple yet effective way to quantify life experiences in different time frames, making it relatable and engaging. By converting age into various units, users can gain a new perspective on their lifespan, encouraging reflection and appreciation for the time they have lived.
+
+
+
