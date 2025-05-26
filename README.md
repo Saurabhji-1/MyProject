@@ -53,5 +53,5 @@ Thank you for using the Survival Duration Calculator. May it inspire thoughtful 
 Happy coding! 🚀
 
 ## 📌 **Author:** _**Saurabh Sharma**_ 
-## 📌 **GitHub Repository:** [Your GitHub Profile](https://github.com/Saurabhji-1)
+## 📌 **GitHub Repository:** [My GitHub Profile](https://github.com/Saurabhji-1)
 
